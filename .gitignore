@@ -1,0 +1,4 @@
+
+# Ignore build output
+Pokemon/bin/
+Pokemon/obj/
