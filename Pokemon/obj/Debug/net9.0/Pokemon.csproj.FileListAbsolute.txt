@@ -12,3 +12,4 @@
 /Users/franzylmacalua/Documents/CODING/PokemonUnity/Pokemon/obj/Debug/net9.0/Pokemon.pdb
 /Users/franzylmacalua/Documents/CODING/PokemonUnity/Pokemon/obj/Debug/net9.0/Pokemon.genruntimeconfig.cache
 /Users/franzylmacalua/Documents/CODING/PokemonUnity/Pokemon/obj/Debug/net9.0/ref/Pokemon.dll
+/Users/franzylmacalua/Documents/CODING/PokemonUnity/Pokemon/obj/Debug/net9.0/Pokemon.sourcelink.json
